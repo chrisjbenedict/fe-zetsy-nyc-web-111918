@@ -18,3 +18,8 @@ body {
 }
 
 /* Write all remaining styles here */
+
+/* Logo */
+.logo {
+  color: rgb(151, 173, 167)
+}
