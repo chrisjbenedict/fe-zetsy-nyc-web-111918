@@ -50,6 +50,10 @@ p {
   display: block;
 }
 
+section {
+  display: block;
+}
+
 #press {
   margin-bottom: 20px;
 }
