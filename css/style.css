@@ -32,3 +32,8 @@ h1 {
   font-family: 'Baskerville', serif;
   border-bottom: 1px solid #ccc;
 }
+
+#necklace img {
+  border: 5px;
+  background: rgb(152, 173, 166);
+}
