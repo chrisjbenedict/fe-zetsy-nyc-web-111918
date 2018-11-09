@@ -23,4 +23,5 @@ body {
 #logo {
   font-family: 'Baskerville', serif;
   color: rgb(151, 173, 167)
+  text: 2em;
 }
