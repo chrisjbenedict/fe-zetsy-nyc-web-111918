@@ -59,6 +59,10 @@ p {
   padding: 1px;
 }
 
+a {
+  text-decoration: underline;
+}
+
 footer {
   text-align: right;
   background: #fff;
